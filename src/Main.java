@@ -20,8 +20,8 @@ public class Main {
         System.out.println(singer);
         singer.singing();
         singer.playGitar();
-        dancer.learn();
-        dancer.eat();
-        dancer.walk();
+        singer.learn();
+        singer.eat();
+        singer.walk();
     }
 }
